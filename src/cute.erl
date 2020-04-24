@@ -1,0 +1,3 @@
+-module(cute).
+
+-export([]).

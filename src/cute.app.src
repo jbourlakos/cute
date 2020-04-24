@@ -1,0 +1,13 @@
+{application, cute,
+  [{description, "A Web scraping library suite"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [kernel, stdlib, hackney]},
+  {env,[]},
+  {modules, []},
+  {licenses, [
+    "Apache 2.0",
+    "Mozilla Public License Version 2.0"
+  ]},
+  {links, []}
+]}.
